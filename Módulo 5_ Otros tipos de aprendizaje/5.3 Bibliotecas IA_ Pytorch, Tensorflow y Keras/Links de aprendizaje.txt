@@ -1,0 +1,21 @@
+Descripción de una red Neuronal
+
+Tutorial video Youtube
+https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown
+
+Dibujar Número
+https://mco-mnist-draw-rwpxka3zaa-ue.a.run.app/
+
+Dibujar Número y ver capas
+https://www.cs.ryerson.ca/~aharley/vis/conv/
+
+
+
+Descripción sobre como aprende la red
+
+
+Vídeo Youtube - Training
+https://www.youtube.com/watch?v=IHZwWFHWa-w&ab_channel=3Blue1Brown
+
+BacKpropagation - Youtube video
+https://www.youtube.com/watch?v=Ilg3gGewQ5U&ab_channel=3Blue1Brown

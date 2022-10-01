@@ -1,0 +1,41 @@
+# upgrade conda 
+$ conda upgrade conda 
+
+# create a new environment for Tensorflow (CPU) 
+$ conda create -n tf python=3.8 
+
+# create a new environment for Pytorch (CPU) 
+$ conda create -n pytorch python=3.8 
+
+# List of current environments 
+$ conda info --envs 
+
+# activate the environment tf 
+$ activate tf 
+
+# install pip 
+$ conda install pip 
+
+# install latest version of Tensorflow 
+$ pip install --upgrade tensorflow 
+
+# install KERAS and matplotlib 
+$ conda install matplotlib, jupyterlab, numpy, pandas 
+
+# installing ipykernel 
+$ pip install ipykernel 
+$ ipython kernel install --user --name=tf 
+
+# deactivate tf environment and activate pytorch 
+$ deactivate 
+$ activate pytorch 
+
+# First, install numpy and matplotlib 
+$ conda install numpy, matplotlib, h5py, pandas 
+
+# First, install numpy 
+$ conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+# installing ipykernel 
+$ pip install ipykernel 
+$ ipython kernel install --user --name=pytorch 
