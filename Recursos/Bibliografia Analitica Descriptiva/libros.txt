@@ -1,0 +1,26 @@
+
+Analítica Predictiva
+
+Predictive Analytics – Eric Siegel
+
+The Signal and The Noise – Nate Silver
+
+Data Smart – John W. Foreman
+
+Beginning R: The Statistical Programming Language – Mark Gardener
+
+R in a Nutshell – Joseph Adler
+
+Machine Learning with R – Brett Lantz
+
+Mastering Machine Learning with R – Cory Lesmeister
+
+Unsupervised Learning with R – Erik Rodríguez Pacheco
+
+Mastering Predictive Analytics with R – Rui Miguel Forte
+
+The Master Algorithm – Pedro Domingos
+
+Pattern Recognition and Machine Learning – Christopher M. Bishop
+
+Data Mining: Practical Machine Learning Tools and Techniques – Ian H. Witten
